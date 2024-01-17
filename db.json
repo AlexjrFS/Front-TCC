@@ -1,0 +1,34 @@
+{
+    "alunos": [
+      {
+        "id": 1,
+        "name": "Enzo ",
+        "curso": "TI"
+      },
+      {
+        "id": 2,
+        "name": "Luana",
+        "curso": "Informatica p/ Internet"
+      },
+      {
+        "name": "Catarina",
+        "curso": "Enfermagem",
+        "id": 3
+      },
+      {
+        "name": "Joana Maria fernandes",
+        "curso": "Quimica",
+        "id": 4
+      },
+      {
+        "name": "Marcos Fernandes Souza Lima ",
+        "curso": "Analises Clinicas",
+        "id": 35410
+      },
+      {
+        "name": "Luiza",
+        "curso": "Desing de Int.",
+        "id": 6
+      }
+    ]
+  }
